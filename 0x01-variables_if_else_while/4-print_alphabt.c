@@ -1,6 +1,6 @@
 #include<stdio.h>
 /**
- * main - Prints the alphabet in lowercas expect for q and e 
+ * mai -- Prints the alphabet in lowercas expect for q and e 
  * Return: Always 0
  */
 int main(void)
