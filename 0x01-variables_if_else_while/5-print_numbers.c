@@ -1,6 +1,6 @@
 #include<stdio.h>
 /**
- *main - Prints all single digit numbers of base 10 from 0
+ *main -Prints all single digit numbers of base 10 from 0
  *return:Always 0
  */
 int main(void)
