@@ -1,8 +1,8 @@
 #include<stdio.h>
 /**
- * mai -- Prints the alphabet in lowercas expect for q and e 
- * Return: Always 0
- */
+ *main -- Prints the alphabet in lowercas expect for q and e
+ *Return: Always 0
+*/
 int main(void)
 {
 	char letter;
@@ -13,5 +13,5 @@ int main(void)
 		putchar(letter);
 	}
 	putchar(10);
-return (0);
+	return (0);
 }
