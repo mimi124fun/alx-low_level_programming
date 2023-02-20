@@ -1,9 +1,9 @@
 #include<stdio.h>
 
 /**
- *main - main block
- *description: printing the numbers in the base of 16
- * return: always 0
+ * main - main block
+ * description: printing the numbers in the base of 16
+ * Return: always 0
  */
 
 int main(void)
