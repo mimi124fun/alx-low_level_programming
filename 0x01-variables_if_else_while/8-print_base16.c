@@ -1,7 +1,8 @@
 #include<stdio.h>
 /**
- *main - print the number in base 16
- *return: always 0
+ *main - main drop
+ *description: printing the numbers in the base of 16
+ * return: always 0
  */
 int main(void)
 {
