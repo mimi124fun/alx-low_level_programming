@@ -1,6 +1,7 @@
 #include<stdio.h>
 /**
  *main - prints all combination of single digits
+ *description: all co,binqtion of single digit
  *return: always 0
  */
 int main(void)
