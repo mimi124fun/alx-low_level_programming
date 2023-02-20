@@ -1,9 +1,9 @@
 #include<stdio.h>
 /**
 *main - main block
-*Descripution: a program that print all of the
+*Description: a program that print all of the
 *possible combination of single digit
-*return: always 0 (sucess)
+*return: always 0 (success)
  */
 int main(void)
 {
