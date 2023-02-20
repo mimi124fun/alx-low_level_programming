@@ -1,9 +1,11 @@
 #include<stdio.h>
+
 /**
- *main - main drop
+ *main - main block
  *description: printing the numbers in the base of 16
  * return: always 0
  */
+
 int main(void)
 {
 	int num;
