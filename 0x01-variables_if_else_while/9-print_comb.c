@@ -1,23 +1,25 @@
 #include<stdio.h>
+
 /**
-*main - main block
-*Description: a program that print all of the
-*possible combination of single digit
-*return: always 0 (success)
- */
+* main - main block
+* Description: a program that print all of the
+* possible combination of single digit
+* Return: always 0 (success)
+*/
+
 int main(void)
 {
 	int n;
 
-	for (n = 48; n <= 58; n++)
-		putchar(n);
-	if (n != 57)
+	for (n = 48; n <= 57; n++)
 	{
-	putchar(',');
-	putchar('0');
+		putchar(n);
+		if (n != 57)
+		{
+		putchar(44);
+		putchar(' ');
+		}
 	}
-	n++;
 	putchar(10);
 	return (0);
-
 }
