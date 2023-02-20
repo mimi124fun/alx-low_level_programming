@@ -1,7 +1,8 @@
 # include<stdio.h>
 /**
- * main - print the alphabets in reverse
- * return: always 0
+ * main -  main block
+ * description:print the alphabets in reverse
+ * Return: always 0
  */
 int main(void)
 {
