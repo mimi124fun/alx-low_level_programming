@@ -1,6 +1,6 @@
 # include<stdio.h>
 /**
- * main -print the alphabet in reverse
+ * main - print the alphabets in reverse
  * return: always 0
  */
 int main(void)
